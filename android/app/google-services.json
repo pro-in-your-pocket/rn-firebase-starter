@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "799999893891",
+    "firebase_url": "https://pro-in-your-pocket.firebaseio.com",
+    "project_id": "pro-in-your-pocket",
+    "storage_bucket": "pro-in-your-pocket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799999893891:android:e019fcced08bd8de",
+        "android_client_info": {
+          "package_name": "com.proinyourpocket.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799999893891-4o11vrh00cnc68hejr6l7jkdsju97pjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPhac3RCOyoiSQB5lTmrQJnhJdWPejMo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799999893891:android:65b82a90fd1b8d10",
+        "android_client_info": {
+          "package_name": "com.proinyourpocket.fbstarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799999893891-4o11vrh00cnc68hejr6l7jkdsju97pjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPhac3RCOyoiSQB5lTmrQJnhJdWPejMo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
